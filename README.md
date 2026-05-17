@@ -33,3 +33,6 @@ This repository documents a systematic approach to tuning a Neural Network. The 
 ### 3. Core Activations
 - **ReLU (Rectified Linear Unit)**: f(x) = max(0, x). Used in hidden layers to allow the network to learn non-linear relationships.
 - **Softmax**: Used in the output layer to scale results into probabilities.
+
+### 4. How to Run the Project
+git clone https://github.com/ananyaja/neural-network-optimization-study.git
