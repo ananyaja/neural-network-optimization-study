@@ -37,17 +37,25 @@ This repository documents a systematic approach to tuning a Neural Network. The 
 ### 4. How to Run the Project
 
 Clone the repository:
+
 Bash
+
 git clone https://github.com/ananyaja/neural-network-optimization-study.git
+
 cd neural-network-optimization-study
 
 Install Dependencies:
+
 Make sure you have the following libraries installed:
 
 Bash
+
 pip install tensorflow numpy pandas matplotlib
+
 Explore the Notebook:
+
 Open the Jupyter Notebook to see the step-by-step optimization process:
 
 Bash
+
 jupyter notebook "Neural Network Optimization.ipynb"
